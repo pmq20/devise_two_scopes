@@ -38,6 +38,6 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'devise'
+gem 'devise', '>= 4.6.0'
 
 gem 'activeadmin', '~> 1.0.0.pre1'
