@@ -40,4 +40,4 @@ gem 'spring',        group: :development
 
 gem 'devise'
 
-gem 'activeadmin', '~> 1.0.0.pre1'
+gem 'activeadmin', '~> 1.0.0.0'
